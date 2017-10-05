@@ -24,7 +24,7 @@ bool isEmpty(node * head){
 
 char menu(){
 	char choice;
-	cout << "Menu";
+	cout << "\n\nMenu\n";
 	cout << "1. Add an item \n";
 	cout << "2. Remove an item \n";
 	cout << "3. Show the list \n";
