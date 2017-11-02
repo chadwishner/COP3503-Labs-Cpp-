@@ -29,6 +29,7 @@
 		674708251F868F4B002DA0CA /* PrimeNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrimeNumber.h; sourceTree = "<group>"; };
 		674708261F868F4B002DA0CA /* PlayingWithLinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingWithLinkedList.h; sourceTree = "<group>"; };
 		674708271F868F4B002DA0CA /* PowerOfTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PowerOfTwo.h; sourceTree = "<group>"; };
+		6771E71C1FAB68E000D97B92 /* MessingWithStacks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MessingWithStacks.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				6747081D1F868EEF002DA0CA /* main.cpp */,
+				6771E71C1FAB68E000D97B92 /* MessingWithStacks.h */,
 				674708241F868F4B002DA0CA /* HelloWorld.h */,
 				674708261F868F4B002DA0CA /* PlayingWithLinkedList.h */,
 				674708271F868F4B002DA0CA /* PowerOfTwo.h */,
